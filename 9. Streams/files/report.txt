@@ -1,0 +1,6 @@
+Student ID: 11254
+CSC1     D
+CSC2     F
+CSC46     F
+CSC151     D
+MTH151     A
